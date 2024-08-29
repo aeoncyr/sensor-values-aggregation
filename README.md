@@ -1,6 +1,6 @@
 # Sensor Values Aggregation
 
-This program created to fulfill the requirements of the CAD-IT Code Test, submitted by Fajar Wira Adikusuma. This is a JavaScript program that aggregates sensor data from a JSON file, performs some statistical calculations (minimum, maximum, median, and average) for temperature and humidity data for each room and date, and presents the results in the Command Line Interface (CLI).
+This program created to fulfill the requirements of Code Test in a particular company, submitted by Fajar W. Adikusuma. This is a JavaScript program that aggregates sensor data from a JSON file, performs some statistical calculations (minimum, maximum, median, and average) for temperature and humidity data for each room and date, and presents the results in the Command Line Interface (CLI).
 
 ## Table of Contents
 1. [Prerequisites](#prerequisites)
